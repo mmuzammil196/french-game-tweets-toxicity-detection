@@ -3,8 +3,7 @@
 
 ### 🚀 Detect Toxicity in Game Tweets with AI-Powered Analysis 💡
 
-![image](https://github.com/mmuzammil196/Breadcrumbsfrench-game-tweets-toxicity-detection/assets/77389040/680553a9-f699-460b-81d5-0ea606e90ef4)
-
+![image](https://github.com/mmuzammil196/french-game-tweets-toxicity-detection/assets/77389040/c0f1eb58-d14c-4b51-99e4-5d45d031f29d)
 
 Welcome to our project, where we leverage advanced sentiment analysis techniques to detect and classify toxic content in game-related tweets. Our goal is to develop a predictive model that can accurately identify toxicity based on the language used in these tweets. By employing cutting-edge machine learning methods, we have created an efficient and precise classification model.
 
